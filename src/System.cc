@@ -19,6 +19,7 @@
 */
 
 
+#include "unistd.h"
 
 #include "System.h"
 #include "Converter.h"
